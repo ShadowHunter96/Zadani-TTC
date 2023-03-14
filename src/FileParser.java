@@ -165,14 +165,6 @@ public class FileParser {
 
 
     }
-
-    private void readFromConsole() {
-
-    }
-
-    private void readFromFile() {
-
-    }
-
-
 }
+
+
